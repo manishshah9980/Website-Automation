@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b729c62b-1536-4270-b01f-ff480d7e71f7" name="Default Changelist" comment="" />
+    <list default="true" id="b729c62b-1536-4270-b01f-ff480d7e71f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RegistrationOfAutomation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RegistrationOfAutomation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/RegistrationOfAutomation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/RegistrationOfAutomation.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +30,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1XTkITIQw5cLyXpXtSlnDq1Ytv7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,22 +45,7 @@
       <recent name="C:\Users\shahm\IdeaProjects\Automation Homework For Website\src\test\java\BrowserDrivers" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RegistrationOfAutomation.UserShouldRegisterSuccessfullyMockplus">
-    <configuration name="RegistrationOfAutomation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Automation Homework For Website" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.RegistrationOfAutomation" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.RegistrationOfAutomation.UserShouldRegisterSuccessfullyDominos">
     <configuration name="RegistrationOfAutomation.UserShouldRegisterSuccessfullyDominos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Automation Homework For Website" />
       <extension name="coverage">
@@ -116,13 +110,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RegistrationOfAutomation.userShouldAbleToRegisterSuccessFully_Asda" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automation Homework For Website" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.RegistrationOfAutomation" />
+      <option name="METHOD_NAME" value="userShouldAbleToRegisterSuccessFully_Asda" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RegistrationOfAutomation.UserShouldRegisterSuccessfullyMockplus" />
-        <item itemvalue="JUnit.RegistrationOfAutomation.UserShouldRegisterSuccessfullyOcado" />
         <item itemvalue="JUnit.RegistrationOfAutomation.UserShouldRegisterSuccessfullyDominos" />
+        <item itemvalue="JUnit.RegistrationOfAutomation.UserShouldRegisterSuccessfullyOcado" />
+        <item itemvalue="JUnit.RegistrationOfAutomation.userShouldAbleToRegisterSuccessFully_Asda" />
         <item itemvalue="JUnit.RegistrationOfAutomation.UserShouldRegisterSucessfullyAmazon" />
-        <item itemvalue="JUnit.RegistrationOfAutomation" />
+        <item itemvalue="JUnit.RegistrationOfAutomation.UserShouldRegisterSuccessfullyMockplus" />
       </list>
     </recent_temporary>
   </component>
@@ -152,25 +162,61 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="143" key="GridCell.Tab.0.bottom" timestamp="1581078237472">
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1581466452124">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="143" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581078237472" />
-    <state width="1237" height="143" key="GridCell.Tab.0.center" timestamp="1581078237471">
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1581466452124" />
+    <state x="382" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581365861708">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="143" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581078237471" />
-    <state width="1237" height="143" key="GridCell.Tab.0.left" timestamp="1581078237471">
+    <state x="382" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1581365861708" />
+    <state width="1237" height="143" key="GridCell.Tab.0.bottom" timestamp="1581544714530">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="143" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581078237471" />
-    <state width="1237" height="143" key="GridCell.Tab.0.right" timestamp="1581078237471">
+    <state width="1237" height="143" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581544714530" />
+    <state width="1237" height="143" key="GridCell.Tab.0.center" timestamp="1581544714530">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="143" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581078237471" />
-    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1581077691077">
+    <state width="1237" height="143" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581544714530" />
+    <state width="1237" height="143" key="GridCell.Tab.0.left" timestamp="1581544714530">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1581077691077" />
+    <state width="1237" height="143" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581544714530" />
+    <state width="1237" height="143" key="GridCell.Tab.0.right" timestamp="1581544714530">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="143" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581544714530" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1581450870081">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581450870081" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1581450870081">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1581450870081" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1581450870081">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1581450870081" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1581450870081">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1581450870081" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1581444005630">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1581444005630" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1581450921095">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1581450921095" />
+    <state x="91" y="36" key="new project wizard" timestamp="1581337331597">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="36" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1581337331597" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1581460344736">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1581460344736" />
   </component>
 </project>
